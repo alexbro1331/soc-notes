@@ -22,8 +22,8 @@ Study notes and cheat sheets I keep while learning SOC analysis and blue-team sk
 
 | Repository | What it is |
 |---|---|
-| [intellidetect-siem](https://github.com/alexbro1331/intellidetect-siem) | Detection-engineering and alert-triage pipeline: Sigma and stateful rules, incident correlation, explainable risk scoring, MITRE ATT&CK mapping |
-| [phishscan](https://github.com/alexbro1331/phishscan) | Phishing email triage: explainable verdicts, IOC extraction, MITRE mapping, CLI and web app |
+| [intellidetect-siem](https://github.com/chandankumar-sec/intellidetect-siem) | Detection-engineering and alert-triage pipeline: Sigma and stateful rules, incident correlation, explainable risk scoring, MITRE ATT&CK mapping |
+| [phishscan](https://github.com/chandankumar-sec/phishscan) | Phishing email triage: explainable verdicts, IOC extraction, MITRE mapping, CLI and web app |
 
 ## About
 
